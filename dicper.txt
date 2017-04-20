@@ -1,0 +1,5 @@
+Presione dos veces [Tab] para obtener una lista de claves.
+Para consultar una clave:        > clave       [Enter]
+Para ingresar un nuevo valor:    > clave:valor [Enter]
+Para borrar un valor existente:  > clave:      [Enter]
+Ejecute 'quit', 'exit' o presione [Ctrl+D] (Unix) para salir.
